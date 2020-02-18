@@ -7,6 +7,5 @@ Team:
 -	Smit Gandhi
 -	Cheikh Sidi EL Moctar
 
-Github Link:
-
- https://github.com/cheikhsidi/Project2_ETL
+This Project is about Extracting Eauropean soccer dataset and performing some Cleaning, aggregationa, transformation, and loading it into Postgres database for Analysis.
+This Full ETL process was performed Using Pnadas and SQLAlchemy libraries. 
